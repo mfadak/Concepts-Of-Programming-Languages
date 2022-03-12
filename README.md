@@ -4,3 +4,5 @@ It contains the codes I wrote in the concepts of programming languages course<br
 <b>Week 1:</b> Basic Topics<br>
 <b>Week 2:</b> Data Types<br>
 <b>Week 3:</b> Data Types 2<br>
+<b>Week 4:</b> Conditions<br>
+<b>Week 5:</b> Loop Structures<br>
