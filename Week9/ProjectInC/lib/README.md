@@ -1,1 +1,1 @@
-This file is left Empty.
+This folder is left Empty.
